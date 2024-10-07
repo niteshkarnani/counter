@@ -1,0 +1,21 @@
+#countlabel{
+    display: block;
+    text-align: center;
+    font-size: 10em;
+
+}
+#buttons{
+    text-align: center;
+}
+.butt{
+    padding:10px 20px;
+    font-size: 1.5em;
+    color: white;
+    background-color: rgb(65, 204, 255);
+    border-radius: 5px;
+    transition: background-color 0.25s;
+    cursor: pointer;
+}
+.butt:hover{
+    background-color: blue;
+}
